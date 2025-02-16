@@ -11,5 +11,5 @@ A preview of the card based on the user input
 
 ## Demo
 
-Insert gif or link to demo
 
+![Screen Recording 2025-02-16 at 10 34 59 AM](https://github.com/user-attachments/assets/b9ba9955-8c28-4e7d-98bf-cbf8afd19f38)
