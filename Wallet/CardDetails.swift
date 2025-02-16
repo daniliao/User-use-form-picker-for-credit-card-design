@@ -2,7 +2,7 @@
 //  CardDetails.swift
 //  Wallet
 //
-//  Created by Sameer Mungole on 7/28/23.
+//  Created by Daniel Liao on 2/15/25.
 //
 
 import SwiftUI
