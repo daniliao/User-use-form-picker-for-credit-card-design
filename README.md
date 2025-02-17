@@ -16,22 +16,25 @@ A preview of the card based on the user input
 
 Initialize a Git repository in your Xcode project:
 If your Xcode project is not already a Git repository, you need to initialize it. Open Terminal, navigate to your Xcode project directory, and run the following command:
-
+```
 cd /path/to/your/Xcode/project
 git init
+```
 Add your GitHub repository as a remote:
 If you haven't already, create a repository on GitHub. Then, add it as a remote to your local Git repository by running the following command in Terminal, replacing <repository_url> with the URL of your GitHub repository:
-
+```
 git remote add origin <repository_url>
+```
 Commit your changes:
 In Xcode, make any changes you want to upload to GitHub. Then, in Terminal, navigate to your Xcode project directory and run the following command to stage and commit your changes:
-
+```
 git add .
 git commit -m "Your commit message here"
+```
 Push your changes to GitHub:
 Finally, push your committed changes to your GitHub repository by running the following command:
 
-'''
+```
 git push -u origin main
-'''
+```
 
